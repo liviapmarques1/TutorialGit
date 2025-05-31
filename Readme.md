@@ -16,3 +16,4 @@ clear -> limpa a página
 git add . -> todos os arquivos vão para o standing (fila)
 git push origin main -> atualiza o repositório do GitHub
 git checkout -b "novo botão" -> criando uma nova branch
+git checkout main -> retorna a main mas também pode ir para outra ramificação já existente
