@@ -14,3 +14,5 @@ git push -u origin main -> tá empurando os commit do local para o online
 
 clear -> limpa a página
 git add . -> todos os arquivos vão para o standing (fila)
+git push origin main -> atualiza o repositório do GitHub
+git checkout -b "novo botão" -> criando uma nova branch
